@@ -1,2 +1,2 @@
-print("Hellow World!!!!");
-print("Hellow");
+print("Hellow World!!!!;");
+print("Hellow;");
